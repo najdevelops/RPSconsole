@@ -1,0 +1,2 @@
+# RPSconsole
+console game
